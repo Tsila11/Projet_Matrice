@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1718197607 source:c:\users\tsul's\documents\projetmatrice\main.cpp
+	"matrice.h"
+	<iostream>
+
+1718197533 c:\users\tsul's\documents\projetmatrice\matrice.h
+	<vector>
+	<stdexcept>
+
+1718199375 source:c:\users\tsul's\documents\projetmatrice\matrice.cpp
+	"matrice.h"
+	<vector>
+	<stdexcept>
+	<iostream>
+
